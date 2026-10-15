@@ -1,4 +1,4 @@
-namespace Atelier_1;
+namespace Atelier_1.Collectables;
 
 public interface ICollectable
 {

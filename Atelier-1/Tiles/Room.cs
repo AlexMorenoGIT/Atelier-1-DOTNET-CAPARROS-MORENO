@@ -1,6 +1,8 @@
-namespace Atelier_1;
+using Atelier_1.Collectables;
 
-public class Room : Tile
+namespace Atelier_1.Tiles;
+
+public sealed class Room : Tile
 {
     private ICollectable? _collectable;
     

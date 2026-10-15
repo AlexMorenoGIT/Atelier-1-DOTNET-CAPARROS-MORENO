@@ -1,4 +1,6 @@
-namespace Atelier_1;
+using Atelier_1.Collectables;
+
+namespace Atelier_1.Tiles;
 
 public abstract class Tile
 {

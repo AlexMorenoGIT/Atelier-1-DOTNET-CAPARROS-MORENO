@@ -1,3 +1,5 @@
+using Atelier_1.Tiles;
+
 namespace Atelier_1;
 
 public class Labyrinth

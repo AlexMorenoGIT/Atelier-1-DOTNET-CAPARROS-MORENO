@@ -1,6 +1,8 @@
-namespace Atelier_1;
+using Atelier_1.Collectables;
 
-public class Door : Tile
+namespace Atelier_1.Tiles;
+
+public sealed class Door : Tile
 {
     private readonly Key _key = new();
     private bool _isKeyTaken;
